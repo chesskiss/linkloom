@@ -15,7 +15,7 @@ class Person:
 
 
 client = OpenAI(
-    api_key='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'
+    api_key='       ' #TODO add key if needed
 )
 
 
